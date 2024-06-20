@@ -36,3 +36,8 @@ h3{
     text-align: center;
    padding-top: 15px;
 }
+.k-container{
+   display: flex;
+   flex-direction: column;
+  align-items: center;
+}
